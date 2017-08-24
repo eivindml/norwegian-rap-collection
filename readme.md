@@ -1,4 +1,4 @@
-# 🎤 Norwegian Rap Collection
+# Norwegian Rap Collection 🎤
 
 Collection of Norwegian rap music from the 1983 until 2010 (also some after, but the aim is for a complete collection between these years).
 
